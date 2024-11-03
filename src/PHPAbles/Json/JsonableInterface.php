@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\Json;
+namespace PHPAbles\Json;
 
 use Illuminate\Contracts\Support\Jsonable;
 

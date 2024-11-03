@@ -1,5 +1,5 @@
 {
-    "name": "potter/jsonable",
+    "name": "php-ables/jsonable",
     "description": "PHP Jsonable Interface",
     "type": "library",
     "require": {
@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Potter\\Json\\": "src/Potter/Json/"
+            "PHPAbles\\Json\\": "src/PHPAbles/Json/"
         }
     },
     "authors": [
